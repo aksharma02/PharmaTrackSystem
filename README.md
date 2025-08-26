@@ -161,10 +161,5 @@ PharmaTrack System is committed to open-source development and welcomes contribu
 ### License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-### Support
-For technical support, partnership inquiries, or general questions:
-- Email: [Contact email to be added]
-- Documentation: [Documentation link to be added]
-- Community Forum: [Forum link to be added]
 
 ---
